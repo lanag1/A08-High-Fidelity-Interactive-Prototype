@@ -11,7 +11,7 @@
 ### Task 2:
 > The second task on the New York COVID-19 vaccinaiton appointment app is to use the calendar funcition, specifically how to cancel an appointment that has been made. In this section of the app, the user can also look at their appointment they've made and the detials of their appointments. In this task we are simply testing the cancel function.
 #### Prototype
-> My high-fidelity, interactive prototype can beb found [here](https://www.figma.com/proto/zQde8zfSSDwme3zbCvIUJ6/Untitled?node-id=23%3A294&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A6).
+> My high-fidelity, interactive prototype can be found [here](https://www.figma.com/proto/zQde8zfSSDwme3zbCvIUJ6/Untitled?node-id=23%3A294&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A6).
 ## Wireframes
 > My two tasks are quite intertwined so I created one wireframe for the two tasks. This is because the two tasks are so closely related that they often lead to one another (Ex: looking at your past vaccination in calendar might prompt you to create a new appointment for a second dose). Below is this wireframe.
 ![screenshot of wireframes](wireframe.png)
